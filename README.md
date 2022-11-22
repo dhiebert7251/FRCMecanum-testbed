@@ -15,9 +15,8 @@ Subsystem | Motor(s) | Controller(s) | Sensors
 Drivetrain | 4 x CIM | 4 x Spark | none
 Shooter | 2 x ? | 2 x Spark | none
 
-Location | Motor | Controller | PWM/CAN
-:-:|
 DRIVETRAIN
+Location | Motor | Controller | PWM/CAN
 :-:|:-:|:-:|:-:
 Front Left Drive | CIM | Spark | PWM 1
 |No sensors
