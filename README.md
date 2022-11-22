@@ -17,7 +17,7 @@ Shooter | 2 x ? | 2 x Spark | none
 
 Location | Motor | Controller | PWM/CAN
 :-:|:-:|:-:|:-:
-DRIVETRAIN| | |
+DRIVETRAIN
 Front Left Drive | CIM | Spark | PWM 1
 Front Right Drive | CIM | Spark | PWM 2
 Rear Left Drive | CIM | Spark | PWM 3
