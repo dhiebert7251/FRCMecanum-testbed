@@ -16,9 +16,16 @@ Drivetrain | 4 x CIM | 4 x Spark | none
 Shooter | 2 x ? | 2 x Spark | none
 
 Location | Motor | Controller | PWM/CAN
-:-:|:-:|:-:|:-:
+:-:
 DRIVETRAIN
+:-:|:-:|:-:|:-:
 Front Left Drive | CIM | Spark | PWM 1
+|No sensors
 Front Right Drive | CIM | Spark | PWM 2
+|No sensors
 Rear Left Drive | CIM | Spark | PWM 3
+|No sensors
 Rear Right Drive | CIM | Spark | PWM 4
+|No sensors
+
+
